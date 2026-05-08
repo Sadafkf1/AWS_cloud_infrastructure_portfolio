@@ -2,9 +2,9 @@
 
 A hands-on AWS project demonstrating end-to-end cloud infrastructure deployment including IAM security, networking, compute, databases, and auto-scaling. 
 
-## Repository Architecture
+## Repository Structure
 
-![Repository Architecture](repository-architecture.png)
+![Repository Architecture](repository-structure.png)
 
 ##  Architecture Overview
 
