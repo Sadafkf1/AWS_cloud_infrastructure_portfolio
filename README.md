@@ -4,7 +4,7 @@ A hands-on AWS project demonstrating end-to-end cloud infrastructure deployment 
 
 ## Repository Architecture
 
-!(repository-architecture.png)
+![Repository Architecture](repository-architecture.png)
 
 ##  Architecture Overview
 
